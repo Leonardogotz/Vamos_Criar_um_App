@@ -1,0 +1,27 @@
+{
+    "name": "meetingapp",
+    "version": "1.0.0",
+    "description": "Aplicativo para cadastro e listagem de fornecedores usando React Native.",
+    "main": "App.js",
+    "scripts": {
+      "start": "react-native start",
+      "android": "react-native run-android",
+      "ios": "react-native run-ios"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/SEU_USUARIO/MeetingApp.git"
+    },
+    "keywords": [
+      "react-native",
+      "cadastro",
+      "fornecedores",
+      "listagem"
+    ],
+    "author": "[Seu Nome]",
+    "license": "MIT",
+    "dependencies": {
+      "react": "18.0.0",
+      "react-native": "0.71.0"
+    }
+  }
